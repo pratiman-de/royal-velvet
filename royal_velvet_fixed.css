@@ -1,0 +1,8 @@
+.print h1, .print h2, .print h3,
+.print h4, .print h5, .print h6 {
+  -webkit-text-fill-color: unset !important;
+  background-clip: unset !important;
+  -webkit-background-clip: unset !important;
+  background-image: none !important;
+  color: var(--pink) !important;
+}
